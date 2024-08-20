@@ -33,7 +33,9 @@ c/c++(or c/c++ extension pack) ,remote devolopment,cmake tools(or c/c++ extensio
 1x raspberry pi 5/4/ZW2 board with a debian or ubuntu server lts  64bit image setup.
 
 1x blinking led.
+
 2x m/f jumper wire.
+
 minimal of 1 m/m wire.
 1x breadbord.
 
