@@ -1,4 +1,4 @@
-it still work in progress links are coming soon
+
 
 Summary: This is a example how to setup wiringpi in c++ and Cmake
 for Raspberry Pi gpio programming using vscode .
