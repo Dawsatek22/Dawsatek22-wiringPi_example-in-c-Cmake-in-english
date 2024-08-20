@@ -12,6 +12,13 @@ Recommended skills:
  programming in c++ and cmake,using terminal commands in debian or ubuntu linux,  
  ssh into a Raspberr Pi , experience in gpio programming is Recommended.
 
+GPIO SETUP:
+gpio pin(bcm NUMBERING pin to your choosing) to> positive leg  of the 
+led in the
+breadbord.
+gnd pin to> negative  leg of the led with a resistor (220 ohm is reasonable
+).
+
 Required vscode extension:
 c/c++(or c/c++ extension pack) ,remote devolopment,cmake tools(or c/c++ extension pack) .
 
