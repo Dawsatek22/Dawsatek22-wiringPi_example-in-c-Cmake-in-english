@@ -38,12 +38,13 @@ minimal of 1 m/m wire.
 1x breadbord.
 
 site links for setup :
-wiringPi link: https://github.com/WiringPi/WiringPi.
+wiringPi link:https://github.com/WiringPi/WiringPi.
 setting up ssh for vscode:https://code.visualstudio.com/docs/remote/ssh.
 
 c/c++ setup guide:https://code.visualstudio.com/docs/cpp/introvideos-cpp.
 Cmake guide :https://cmake.org/getting-started/.
-gpio troubleshooting(if needed ):https://raspberrypi.stackexchange.com/questions/40105/access-gpio-pins-without-root-no-access-to-dev-mem-try-running-as-root .
+gpio troubleshooting(if needed ) temporary:https://raspberrypi.stackexchange.com/questions/40105/access-gpio-pins-without-root-no-access-to-dev-mem-try-running-as-root .
+permanent fix link:https://www.reddit.com/r/raspberry_pi/comments/194qhwc/gpionext_error_no_access_todevmem/.
 
 if you like my videos i post my c/c++ 1 week earlier at the moment at corder.tv(recommended for for 13 or older ): https://corder.tv/channel/Dawsabot22.
 
