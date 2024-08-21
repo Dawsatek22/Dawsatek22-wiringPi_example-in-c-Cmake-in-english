@@ -43,6 +43,9 @@ site links for setup :
 wiringPi link:https://github.com/WiringPi/WiringPi.
 setting up ssh for vscode:https://code.visualstudio.com/docs/remote/ssh.
 
+example videos:
+for youtube :https://youtu.be/BGJVNO_jMDs
+.
 c/c++ setup guide:https://code.visualstudio.com/docs/cpp/introvideos-cpp.
 Cmake guide :https://cmake.org/getting-started/.
 gpio troubleshooting(if needed ) temporary:https://raspberrypi.stackexchange.com/questions/40105/access-gpio-pins-without-root-no-access-to-dev-mem-try-running-as-root .
